@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **dharmikdhalani@gmail.com**
 
-<h2 align="center">Technologies I work with:</h3>
+<h2 align="center">Technologies I work with:</h2>
 <h3 align="left">Languages:</h3>
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -97,7 +97,7 @@
 		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 	</a>
 </p>
-<h2 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 	<a href="https://linkedin.com/in/dharmik-halani" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmik-halani" height="30" width="40"/>
